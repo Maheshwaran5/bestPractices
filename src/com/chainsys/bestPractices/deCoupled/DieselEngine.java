@@ -1,4 +1,4 @@
-package com.chainsys.bestPracties.deCoupled;
+package com.chainsys.bestPractices.deCoupled;
 
 public class DieselEngine implements Iengine {
 	  public void start(){
