@@ -1,4 +1,4 @@
-package com.chainsys.bestPractice;
+package com.chainsys.bestPractices.clone;
 
 
 public class Student implements Cloneable {

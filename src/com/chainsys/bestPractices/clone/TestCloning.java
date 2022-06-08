@@ -1,4 +1,4 @@
-package com.chainsys.bestPractice;
+package com.chainsys.bestPractices.clone;
 
 public class TestCloning {
 	public static void main(String[] args) {
